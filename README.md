@@ -1,6 +1,12 @@
 ### Hi Folks 👋
 
-Looking forward to colaborate.
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on React And Node
+
+- 🌱 I’m currently learning **DSA and MERN STACK**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 ## 📊 My Github Stats
 
